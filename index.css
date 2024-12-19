@@ -1,0 +1,34 @@
+/* Estilo para o corpo da página */
+body {
+    background-color: #e1ef1b; /* Cor de fundo */
+    font-family: Arial, sans-serif; /* Fonte */
+  }
+  
+  /* Estilo para títulos */
+  h1 {
+    color: #00698f; /* Cor do texto */
+    text-align: center; /* Alinhamento */
+  }
+  
+  /* Estilo para parágrafos */
+  p {
+    font-size: 18px; /* Tamanho da fonte */
+    margin: 20px; /* Espaço entre parágrafos */
+  }
+  
+  /* Estilo para botões */
+  button {
+    background-color: #4CAF50; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    padding: 10px 20px; /* Espaço interno */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Cantos arredondados */
+    cursor: pointer; /* Ponteiro de mão */
+  }
+  
+  button:hover {
+    background-color: #3e8e41; /* Cor de fundo ao passar o mouse */
+  }
+  
+  
+  
